@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-faiz-molpay",
+  "version": "0.0.1",
+  "description": "plugin for molpay using cordova",
+  "cordova": {
+    "id": "cordova-plugin-faiz-molpay",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aifaiz/faizmolpay"
+  },
+  "keywords": [
+    "cordova",
+    "molpay"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "license": "Apache 2.0"
+}
