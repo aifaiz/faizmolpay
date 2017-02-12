@@ -10,3 +10,5 @@ this is a molpay cordova plugin. still in the development phase
 
 
 ** current status. still in the middle of development
+
+` not continued ` because this project no longer need this repo. this is just my reference only
